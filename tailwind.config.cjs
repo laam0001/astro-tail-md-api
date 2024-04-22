@@ -11,7 +11,9 @@ module.exports = {
         extend: {
             colors: {
                 'persianmosaic': {
+                    100:
                     500: '#196673',
+
                   },
             }
         }
